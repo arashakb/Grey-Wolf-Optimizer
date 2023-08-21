@@ -1,4 +1,4 @@
-# Grey-Wolf-Optimizer
+# Grey Wolf Optimizer Implementation
 
 Welcome to the Grey Wolf Optimizer (GWO) implementation repository! This repository contains a Python implementation of the Grey Wolf Optimizer algorithm, a nature-inspired optimization technique that simulates the collaborative hunting behavior of grey wolves to solve optimization problems. The implementation provided here showcases the core concepts of the GWO algorithm and offers a starting point for experimentation and further development.
 Overview
